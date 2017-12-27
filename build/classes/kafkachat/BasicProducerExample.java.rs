@@ -1,2 +1,0 @@
-BasicProducerExample
-BasicProducerExample$TestCallback
